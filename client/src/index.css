@@ -1,0 +1,96 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.darken-1 {
+    background-color: #2c2c2c !important;
+}
+
+.row input{
+    color: white;
+}
+
+.black-text{
+    margin-left: 10px;
+}
+
+.card-content {
+    width: 600px;
+}
+
+.fields {
+    width: 400px;
+}
+
+
+.brand-logo {
+    margin-left: 10px;
+}
+
+#modal1{
+    width: 750px;
+    height: 700px;
+}
+
+div .input-field .modal-overlay {
+    opacity: 0 !important;
+}
+
+#modal1.modal.open{
+    min-height: 640px;
+}
+
+.chips .input {
+    width: 200px;
+}
+
+.control-bar{
+    display: flex;
+    margin-top: 100px;
+}
+
+.edit{
+    float: right;
+}
+
+.att {
+    width: 100%;
+    display: flex;
+    /*border: 1px solid #2c2c2c;*/
+}
+
+.att .collapsible-header{
+    width: 100%;
+}
+
+.button {
+    width: 0px;
+    height: 40px;
+}
+
+button.edit {
+    margin-right: 5px;
+    margin-top: 13px;
+    font-size: 37px;
+    width: 70px;
+}
+
+.datepicker-container.modal-content {
+    display: block;
+}
+
+.modal .modal-cont {
+    margin-left: 20px;
+    height: 89%;
+}
+
+.modal .modal-footer {
+    height: 50px;
+}
+
+.row,.row-modal {
+    width: 600px;
+}
+
+.control-bar .select-wrapper{
+    margin-left: 20px;
+
+}

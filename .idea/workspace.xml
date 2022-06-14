@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95d1db6e-c6f6-41a2-b9fc-88db03d6e548" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="297N2TTloIsFKsbyLR34oGJ48Co" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/var/WebstormProjects/tgm/client/src/hooks&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\WebStorm 2022.1\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\var\WebstormProjects\tgm\client\src\hooks" />
+      <recent name="C:\Users\var\WebstormProjects\tgm\client\src\context" />
+      <recent name="C:\Users\var\WebstormProjects\tgm\models" />
+      <recent name="C:\Users\var\WebstormProjects\tgm\routes" />
+      <recent name="C:\Users\var\WebstormProjects\tgm\controllers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\var\WebstormProjects\tgm\client\src\pages\roles\supervisor" />
+      <recent name="C:\Users\var\WebstormProjects\tgm\client\src\pages\auth" />
+      <recent name="C:\Users\var\WebstormProjects\tgm\models" />
+      <recent name="C:\Users\var\WebstormProjects\tgm" />
+      <recent name="C:\Users\var\WebstormProjects\tgm\client\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95d1db6e-c6f6-41a2-b9fc-88db03d6e548" name="Changes" comment="" />
+      <created>1652459962354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652459962354</updated>
+      <workItem from="1652459963443" duration="96400000" />
+      <workItem from="1653043048295" duration="77342000" />
+      <workItem from="1653466480299" duration="294000" />
+      <workItem from="1653466789394" duration="231000" />
+      <workItem from="1653467039303" duration="60509000" />
+      <workItem from="1653844888136" duration="249204000" />
+      <workItem from="1655213830445" duration="295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
